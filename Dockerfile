@@ -8,7 +8,7 @@
 FROM ubuntu
 
 # File Author / Maintainer
-Zhiqiang
+teamgong
 
 # Install Nginx
 
