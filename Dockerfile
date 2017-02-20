@@ -8,7 +8,7 @@
 FROM ubuntu
 
 # File Author / Maintainer
-teamgong
+MAINTAINER teamgong
 
 # Install Nginx
 
